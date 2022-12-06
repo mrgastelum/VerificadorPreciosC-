@@ -1,0 +1,11 @@
+C:\Users\PC.PC\source\repos\codigo de barras\bin\Debug\codigo de barras.exe.config
+C:\Users\PC.PC\source\repos\codigo de barras\bin\Debug\codigo de barras.exe
+C:\Users\PC.PC\source\repos\codigo de barras\bin\Debug\codigo de barras.pdb
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo de barras.csproj.AssemblyReference.cache
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo de barras.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo_de_barras.Properties.Resources.resources
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo de barras.csproj.GenerateResource.cache
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo de barras.csproj.CoreCompileInputs.cache
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo de barras.exe
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo de barras.pdb
+C:\Users\PC.PC\source\repos\codigo de barras\obj\Debug\codigo_de_barras.Form1.resources
